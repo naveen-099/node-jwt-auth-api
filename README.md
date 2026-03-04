@@ -58,7 +58,7 @@ sql/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/node-jwt-auth-api.git
+git clone https://github.com/naveen-099/node-jwt-auth-api.git
 cd node-jwt-auth-api
 ```
 
